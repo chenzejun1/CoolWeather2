@@ -43,4 +43,12 @@ public int getProvinceId(){
     public void setCityName(String cityName) {
         this.cityName = cityName;
     }
+
+    public String getCityName() {
+        return cityName;
+    }
+
+    public int getCityCode() {
+        return cityCode;
+    }
 }
