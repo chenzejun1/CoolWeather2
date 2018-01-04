@@ -19,7 +19,7 @@ import android.widget.Toast;
 import com.example.coolweather.db.City;
 import com.example.coolweather.db.County;
 import com.example.coolweather.db.province;
-import com.example.coolweather1.R;
+import com.example.coolweather.R;
 
 import org.litepal.crud.DataSupport;
 
